@@ -1,7 +1,7 @@
 
 ![Image](https://github.com/user-attachments/assets/751efbad-e5be-4e26-ad9e-fa07852f4685)
 
----cpp
+```cpp
 #include <iostream>
 using namespace std;
 

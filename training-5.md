@@ -1,6 +1,5 @@
 
-![Image](https://github.com/user-attachments/assets/751efbad-e5be-4e26-ad9e-fa07852f4685)
-
+![Image](https://github.com/user-attachments/assets/3a1e187f-bc6e-47c6-97fe-0b96e68e5932)
 ```cpp
 #include <iostream>
 using namespace std;
